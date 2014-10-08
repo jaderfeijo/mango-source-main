@@ -1,4 +1,6 @@
 mango-source-main
 =================
 
-Mango Main Source
+Main Mango Source
+
+Contains the main trunk of mango packages
